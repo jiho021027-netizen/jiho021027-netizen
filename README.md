@@ -82,7 +82,6 @@ I use this loop to turn system behavior into testable changes, then check those 
 
 ## Contact
 
-- **GitHub:** [YOUR_GITHUB_ID](https://github.com/YOUR_GITHUB_ID)
-- **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)
+- **Email:** jiho021027@gmail.com
 
 
